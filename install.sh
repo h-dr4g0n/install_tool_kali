@@ -3,8 +3,6 @@ curl https://raw.githubusercontent.com/rapid7/metasploit-omnibus/master/config/t
 chmod 755 msfinstall && \
 ./msfinstall
 apt-get install git
-git config –global user.name h-dr4g0n
-git config –global user.email dragonmatrix2506@gmail.com
+git config –global user.name "h-dr4g0n"
+git config –global user.email "dragonmatrix2506@gmail.com"
 git clone https://github.com/trustedsec/social-engineer-toolkit/ set/
-unzip dex2jar-2.0.zip
-git clone https://github.com/dana-at-cp/backdoor-apk
