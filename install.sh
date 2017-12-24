@@ -7,3 +7,4 @@ git config –global user.name h-dr4g0n
 git config –global user.email dragonmatrix2506@gmail.com
 git clone https://github.com/trustedsec/social-engineer-toolkit/ set/
 unzip dex2jar-2.0.zip
+https://github.com/dana-at-cp/backdoor-apk
